@@ -1,0 +1,16 @@
+body{
+  background-color: cornflowerblue;
+}
+h1, h2{
+    align-items: center;
+    text-align: center;
+    background-color: chocolate;
+    color: aqua;
+}
+h2{
+    color: blue;
+    background-color: aquamarine;
+}
+p{
+    color: black;
+}
