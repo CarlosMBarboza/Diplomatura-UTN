@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+#rojo{
+    background-color: red;
+    width: 250px;
+    color: white;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 20px;
+    /*height: 400px;*/
+
+}
+
+#azul{
+    background-color: blue;
+    width: 250px;
+    color: white;
+    padding: 20px ;
+    border-radius: 10px ;
+    margin: 20px;
+    /*height: 400px;*/
+}
