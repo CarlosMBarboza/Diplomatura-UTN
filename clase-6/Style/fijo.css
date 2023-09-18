@@ -1,0 +1,22 @@
+.caja{
+    background-color: yellow;
+    height: 50px;
+    width: 100%;
+    position: fixed;/*se adapta al contenido */
+    top: 0;
+    z-index: 500;
+}
+p{
+    background-color: red;
+    margin-top: 52px;
+
+}
+
+
+
+
+
+
+
+
+
