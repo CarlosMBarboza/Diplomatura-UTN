@@ -1,0 +1,19 @@
+.contenedor{
+    display: inline-flex;
+    background-color: gray;
+    height: 700px;
+    flex-wrap: wrap;
+    align-content: flex-start;/*sobre el eje y */
+    align-content: flex-end;
+    align-content: center;
+    align-content: space-around;
+    align-content: space-between;
+    align-content: space-evenly;
+
+}
+.item{
+    background-color: white;
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+}

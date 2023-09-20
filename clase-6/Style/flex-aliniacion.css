@@ -1,0 +1,17 @@
+.contenedor{
+    display: inline-flex;
+    background-color: gray;
+    justify-content: flex-start;/*Por defecto*/
+    justify-content: flex-end;
+    justify-content: space-around;/*Respeta los margenes ya puestos*/
+    justify-content: space-between;
+    justify-content: center;
+    justify-content: space-evenly;/*Separa en partes iguales, no respéta los margenes */
+
+}
+.item{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}

@@ -1,0 +1,14 @@
+.contenedor{
+    display: inline-flex;
+    background-color: gray;
+    flex-wrap: nowrap;/*Viene ya por defecto*/
+    flex-wrap: wrap;/*Se va acomodando a medida que 
+    se achica la pantalla uno abajo de otro*/
+    flex-wrap: wrap-reverse;/*Posicionamiento inverso */
+}
+.item{
+    background-color: white;
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+}
