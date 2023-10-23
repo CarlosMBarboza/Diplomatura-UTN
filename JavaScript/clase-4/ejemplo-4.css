@@ -1,0 +1,13 @@
+.boton{
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20;
+}
+.alternar{
+    background-color: aqua;
+}
+.altenar.activo{
+    background-color: red;
+    color: white;
+}
